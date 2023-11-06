@@ -1,2 +1,2 @@
-# UygulamaGelistirerekC-SharpLearning8-ForLoop
+# UygulamaGelistirerekC-SharpLearning8-Loops
 Uygulama geliştirerek C# öğrenme 
