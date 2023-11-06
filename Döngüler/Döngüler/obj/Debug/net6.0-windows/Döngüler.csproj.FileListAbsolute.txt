@@ -1,0 +1,16 @@
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project11\Döngüler\Döngüler\bin\Debug\net6.0-windows\Döngüler.exe
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project11\Döngüler\Döngüler\bin\Debug\net6.0-windows\Döngüler.deps.json
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project11\Döngüler\Döngüler\bin\Debug\net6.0-windows\Döngüler.runtimeconfig.json
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project11\Döngüler\Döngüler\bin\Debug\net6.0-windows\Döngüler.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project11\Döngüler\Döngüler\bin\Debug\net6.0-windows\Döngüler.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project11\Döngüler\Döngüler\obj\Debug\net6.0-windows\Döngüler.Form1.resources
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project11\Döngüler\Döngüler\obj\Debug\net6.0-windows\Döngüler.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project11\Döngüler\Döngüler\obj\Debug\net6.0-windows\Döngüler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project11\Döngüler\Döngüler\obj\Debug\net6.0-windows\Döngüler.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project11\Döngüler\Döngüler\obj\Debug\net6.0-windows\Döngüler.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project11\Döngüler\Döngüler\obj\Debug\net6.0-windows\Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project11\Döngüler\Döngüler\obj\Debug\net6.0-windows\Döngüler.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project11\Döngüler\Döngüler\obj\Debug\net6.0-windows\refint\Döngüler.dll
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project11\Döngüler\Döngüler\obj\Debug\net6.0-windows\Döngüler.pdb
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project11\Döngüler\Döngüler\obj\Debug\net6.0-windows\Döngüler.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Desktop\dersler\C#-Form\Temel-Projeler\Project11\Döngüler\Döngüler\obj\Debug\net6.0-windows\ref\Döngüler.dll
